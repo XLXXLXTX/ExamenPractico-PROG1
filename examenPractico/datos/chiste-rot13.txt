@@ -1,0 +1,3 @@
+Hay 10 tipos de personas:
+	> a: los que saben binario
+    > b: los que no
